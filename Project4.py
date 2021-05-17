@@ -8,9 +8,7 @@ Created on Mon May 17 01:30:27 2021
 import pandas as pd
 import numpy as np
 import random
-from PIL import Image
-import matplotlib.pyplot as plt
-learning_rate = 0.8
+learning_rate = 0.5
 
 # rewards related to the cell in the map
 # empty=1
